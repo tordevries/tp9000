@@ -1,2 +1,2 @@
 # tp9000
-a demo of github
+This is a demo of github for a lesson video.
